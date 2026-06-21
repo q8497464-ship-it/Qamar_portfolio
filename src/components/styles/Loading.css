@@ -413,7 +413,14 @@
 }
 
 .loader-logo {
-  height: 120px;
+  height: 50px;
   width: auto;
   display: block;
+  transition: height 0.3s ease;
+}
+
+@media only screen and (min-width: 900px) {
+  .loader-logo {
+    height: 120px;
+  }
 }
