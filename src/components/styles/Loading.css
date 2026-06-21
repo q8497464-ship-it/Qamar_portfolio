@@ -413,7 +413,7 @@
 }
 
 .loader-logo {
-  height: 50px;
+  height: 60px;
   width: auto;
   display: block;
   transition: height 0.3s ease;

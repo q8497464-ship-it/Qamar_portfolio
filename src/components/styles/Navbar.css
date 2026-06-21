@@ -83,7 +83,7 @@
 }
 
 .navbar-logo {
-  height: 35px;
+  height: 40px;
   width: auto;
   display: block;
   filter: invert(1) hue-rotate(180deg) brightness(1.1) contrast(1.1);
